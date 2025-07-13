@@ -1,5 +1,7 @@
 Inverted Pendulum is a classic reinforcement learning problem which we have solved using DQN algorithm.
+
 LOGIC BEHIND INVERTED PENDULUM PROBLEM
+
 State (Observation): [cart position, cart velocity, pole angle,
 pole angular velocity]
 Action Space: 0 = push left, 1 = push right
